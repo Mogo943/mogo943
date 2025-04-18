@@ -1,7 +1,7 @@
 <h2 align="center">¡Hola! Soy Carlos 👋</h2>
 
 <p align="center">
-  Estudiante de Informática | QA Manual en formación | Explorando el mundo del testing
+  Estudiante de Informática | QA y desarrollador en formación | Explorando el mundo del testing e IT en general
 </p>
 
 ---
