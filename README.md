@@ -47,7 +47,7 @@ Testing funcional completo: casos de prueba, bugs, pruebas no funcionales, repor
 Si estás buscando a alguien detallista, con muchas ganas de aprender y crecer en QA:
 - ✉️ **Email:** carlosmogo.work@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cariosmogoiion/)
-- 📁 [CV](https://tinyurl.com/carlos-cv)
+- 📁 [CV](https://docs.google.com/document/d/1rw3D5pq7pal-bcti06H1H_Bje7hV0I7_tuozQH1Zz1I/edit?usp=sharing)
 
 ---
 
