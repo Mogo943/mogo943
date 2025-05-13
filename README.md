@@ -9,7 +9,7 @@
 ### 💼 Sobre mí
 
 🎓 Soy estudiante de informática con una fuerte orientación hacia el **Testing QA Manual**. Me gusta analizar, encontrar errores, y asegurarme de que todo funcione como debe ser 💡  
-Estoy en búsqueda de mi **experiencia profesional en QA**, y mientras tanto sigo practicando, aprendiendo y documentando proyectos.
+Estoy en búsqueda de **experiencia profesional en QA**, y mientras tanto sigo practicando, aprendiendo y documentando proyectos.
 
 ---
 
