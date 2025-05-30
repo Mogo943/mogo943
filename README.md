@@ -1,15 +1,14 @@
 <h2 align="center">¡Hola! Soy Carlos 👋</h2>
 
 <p align="center">
-  Estudiante de Informática | QA y desarrollador en formación | Explorando el mundo del testing e IT en general
+ Desarrollador | QA | Analista de Fraudes
 </p>
 
 ---
 
 ### 💼 Sobre mí
 
-🎓 Soy estudiante de informática con una fuerte orientación hacia el **Testing QA Manual**. Me gusta analizar, encontrar errores, y asegurarme de que todo funcione como debe ser 💡  
-Estoy en búsqueda de **experiencia profesional en QA**, y mientras tanto sigo practicando, aprendiendo y documentando proyectos.
+🎓 Soy estudiante de informática con una fuerte orientación hacia el **Testing y seguridad**. Me gusta analizar, encontrar errores, vulnerabilidades y asegurarme de que todo funcione como debe ser 💡  
 
 ---
 
@@ -20,7 +19,6 @@ Estoy en búsqueda de **experiencia profesional en QA**, y mientras tanto sigo p
 - 🌐 Testing de APIs (GET, parámetros, errores)
 - 🚦 Pruebas de rendimiento con **Lighthouse**
 - 📋 Documentación de pruebas clara y profesional
-- 🔎 Exploración de herramientas para QA Automatizado
 
 ---
 
