@@ -1,14 +1,18 @@
 <h2 align="center">¡Hola! Soy Carlos 👋</h2>
 
 <p align="center">
- Desarrollador | QA | Analista de Fraudes
+ Desarrollador | QA 
 </p>
 
 ---
 
 ### 💼 Sobre mí
 
-🎓 Soy estudiante de informática con una fuerte orientación hacia el **Testing y seguridad**. Me gusta analizar, encontrar errores, vulnerabilidades y asegurarme de que todo funcione como debe ser 💡  
+🎓Perfil técnico con experiencia en aseguramiento de calidad de software (QA) y enfoque en procesos de
+validación, documentación y mejora continua. Formación académica en informática y QA con proyectos
+completos publicados en GitHub. Experiencia liderando equipos y automatizando procesos reales mediante
+Python y Selenium en contextos financieros.Apasionado por la calidad, la lógica y la eficiencia en entornos
+digitales.
 
 ---
 
