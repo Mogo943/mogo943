@@ -66,7 +66,7 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 Si buscas un perfil Full Stack detallista, con un enfoque en la calidad del software (QA) y la eficiencia:
 - ✉️ **Email:** carlosmogo.work@gmail.com
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/carlosmogollon-it/)
-- 📁 [**CV**]([tinyurl.com/carlos-mogollon-cv](https://bit.ly/carlos-mogollon-cv))
+- 📁 [**CV**](https://bit.ly/carlos-mogollon-cv)
 
 ---
 
