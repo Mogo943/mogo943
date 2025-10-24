@@ -36,30 +36,22 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 <p align="center">
   <p>BACKEND</p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,js,ts,postgres,mongodb" />
-  </a>
 </p>
 
 <p align="center">
   <p>FRONTEND</p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vite,js,ts,css,html" />
-  </a>
 </p>
 
 <p align="center">
   <p>QA</p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jest,postman" />
-  </a>
 </p>
 
 <p align="center">
   <p>OTROS</p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=npm,docker,git,github,kotlin,py,selenium,java,vscode,androidstudio,discord" />
-  </a>
 </p>
 
 ---
@@ -74,9 +66,7 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 <p align="center">
   <p>Tecnologias</p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,js,nestjs,nodejs,npm,ts,postgres,postman,vscode," />
-  </a>
 </p>
 
 #### 2. ⏱️ Proyecto Full Stack (Soy Henry):
@@ -87,23 +77,17 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 <p align="center">
   <p>BACKEND</p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,js,nodejs,ts,postgres" />
-  </a>
 </p>
 
 <p align="center">
   <p>FRONTEND</p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,vite" />
-  </a>
 </p>
 
 <p align="center">
   <p>OTROS</p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode" />
-  </a>
 </p>
 
 #### 3. ✅ Proyecto de Web Testing (CoderHouse):
@@ -115,9 +99,7 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 <p align="center">
   <p>OTROS</p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
 </p>
 
 ---
