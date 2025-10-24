@@ -32,7 +32,35 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 | **Backend** ⚙️ | Node.js, Nest.js, Express, TypeScript, TypeORM | API REST, Docker, JWT, Auth0, PostgreSQL, MongoDB |
 | **Frontend** 🎨 | React, Vite, JavaScript, TypeScript | CSS, HTML, Axios |
 | **Testing & QA** ✅ | Pruebas Manuales, Jest (Unitarias/Integración) | Postman/Insomnia, Jira (gestión de bugs) |
-| **Otros** | Git/GitHub, Docker, Kotlin, Python, Java, Pandas | SCRUM, Diagramas UML, OpenAPI, Markdown, Google Sheets |
+| **Otros** | Git/GitHub, Docker, Kotlin, Python, Java, Selenium, Pandas | SCRUM, Diagramas UML, OpenAPI, Markdown, Google Sheets, Visual Studio Code, Android Studio |
+
+<p align="center">
+  <p>BACKEND</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,js,ts,postgres,mongodb" />
+  </a>
+</p>
+
+<p align="center">
+  <p>FRONTEND</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,js,ts,css,html" />
+  </a>
+</p>
+
+<p align="center">
+  <p>QA</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,postman" />
+  </a>
+</p>
+
+<p align="center">
+  <p>OTROS</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,docker,git,github,kotlin,py,selenium,java,vs,androidstudio,discord,slack" />
+  </a>
+</p>
 
 ---
 
