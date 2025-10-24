@@ -58,7 +58,7 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 <p align="center">
   <p>OTROS</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,docker,git,github,kotlin,py,selenium,java,vscode,androidstudio,discord,slack" />
+    <img src="https://skillicons.dev/icons?i=npm,docker,git,github,kotlin,py,selenium,java,vscode,androidstudio,discord" />
   </a>
 </p>
 
@@ -71,14 +71,40 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 **➡️ [PM4-Backend-Project](https://github.com/Mogo943/PM4-Backend-Project)**
 
 **Descripción:** PM4-Backend-Project es una aplicación backend desarrollada como parte del Módulo 4 del bootcamp de Soy Henry. Incluye backend REST con Node.js para ofrecer en el contexto de un e-commerce: creacion, actualizacion, busqueda, eliminacion y autenticacion de usuarios, productos y ordenes de compras. Además de la subida de archivos, busqueda y creacion de categorias y detalles de ordenes de compra. Estableciendo una logica de negocio de un e-commerce.
-**Tecnologías:** Nest.js, PostgreSQL, Uso de **Docker** y **Jest** para testing.
+
+<p align="center">
+  <p>Tecnologias</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,js,nestjs,nodejs,npm,ts,postgres,postman,vscode," />
+  </a>
+</p>
 
 #### 2. ⏱️ Proyecto Full Stack (Soy Henry):
 
 **➡️ [PM3-Project](https://github.com/Mogo943/PM3-Project)**
 
 **Descripción:** PM3-Project es una aplicación full stack desarrollada como parte del Módulo 3 del bootcamp de Soy Henry. Incluye backend REST con Node.js y frontend con Vite/React, integrados para ofrecer funcionalidades completas: autenticación, operaciones CRUD, lógica de negocio y validaciones.
-**Tecnologías:** NodeJs, Express, PostgreSQL para el Backend y React/Vite para el Frontend.
+
+<p align="center">
+  <p>BACKEND</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,js,nodejs,ts,postgres" />
+  </a>
+</p>
+
+<p align="center">
+  <p>FRONTEND</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,vite" />
+  </a>
+</p>
+
+<p align="center">
+  <p>OTROS</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode" />
+  </a>
+</p>
 
 #### 3. ✅ Proyecto de Web Testing (CoderHouse):
 
@@ -86,6 +112,13 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 **Descripción:** Este proyecto fue realizado como trabajo final del curso de Tester QA Manual en CoderHouse.
 **Herramientas:** Utilización de Jira para gestión y Postman para pruebas de API.
+
+<p align="center">
+  <p>OTROS</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+</p>
 
 ---
 
