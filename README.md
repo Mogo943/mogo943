@@ -58,7 +58,7 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 <p align="center">
   <p>OTROS</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,docker,git,github,kotlin,py,selenium,java,vs,androidstudio,discord,slack" />
+    <img src="https://skillicons.dev/icons?i=npm,docker,git,github,kotlin,py,selenium,java,vscode,androidstudio,discord,slack" />
   </a>
 </p>
 
