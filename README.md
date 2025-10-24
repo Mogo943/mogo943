@@ -40,21 +40,21 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 #### 1. 💻 Proyecto Backend (Soy Henry):
 
-**➡️ [https://github.com/Mogo943/PM4-Backend-Project](PM4-Backend-Project)**
+**➡️ [PM4-Backend-Project](https://github.com/Mogo943/PM4-Backend-Project)**
 
 **Descripción:** PM4-Backend-Project es una aplicación backend desarrollada como parte del Módulo 4 del bootcamp de Soy Henry. Incluye backend REST con Node.js para ofrecer en el contexto de un e-commerce: creacion, actualizacion, busqueda, eliminacion y autenticacion de usuarios, productos y ordenes de compras. Además de la subida de archivos, busqueda y creacion de categorias y detalles de ordenes de compra. Estableciendo una logica de negocio de un e-commerce.
 **Tecnologías:** Nest.js, PostgreSQL, Uso de **Docker** y **Jest** para testing.
 
 #### 2. ⏱️ Proyecto Full Stack (Soy Henry):
 
-**➡️ [https://github.com/Mogo943/PM3-Project](PM3-Project)**
+**➡️ [PM3-Project](https://github.com/Mogo943/PM3-Project)**
 
 **Descripción:** PM3-Project es una aplicación full stack desarrollada como parte del Módulo 3 del bootcamp de Soy Henry. Incluye backend REST con Node.js y frontend con Vite/React, integrados para ofrecer funcionalidades completas: autenticación, operaciones CRUD, lógica de negocio y validaciones.
 **Tecnologías:** NodeJs, Express, PostgreSQL para el Backend y React/Vite para el Frontend.
 
 #### 3. ✅ Proyecto de Web Testing (CoderHouse):
 
-**➡️ [https://github.com/Mogo943/qa-project-demo-guru](Web-testing-project-demo-guru)**
+**➡️ [Web-testing-project-demo-guru](https://github.com/Mogo943/qa-project-demo-guru)**
 
 **Descripción:** Este proyecto fue realizado como trabajo final del curso de Tester QA Manual en CoderHouse.
 **Herramientas:** Utilización de Jira para gestión y Postman para pruebas de API.
