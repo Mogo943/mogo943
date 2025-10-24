@@ -52,12 +52,13 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 **Descripción:** PM3-Project es una aplicación full stack desarrollada como parte del Módulo 3 del bootcamp de Soy Henry. Incluye backend REST con Node.js y frontend con Vite/React, integrados para ofrecer funcionalidades completas: autenticación, operaciones CRUD, lógica de negocio y validaciones.
 **Tecnologías:** NodeJs, Express, PostgreSQL para el Backend y React/Vite para el Frontend.
 
-#### 3. ✅ Proyecto Actual de QA (Pruebas Manuales y Automatización):
+#### 3. ✅ Proyecto de Web Testing (CoderHouse):
 
 **➡️ [https://github.com/Mogo943/qa-project-demo-guru](Web-testing-project-demo-guru)**
 
 **Descripción:** Este proyecto fue realizado como trabajo final del curso de Tester QA Manual en CoderHouse.
 **Herramientas:** Utilización de Jira para gestión y Postman para pruebas de API.
+
 ---
 
 ### 📫 Contacto
