@@ -1,4 +1,4 @@
-<h2 align="center">¡Hola! Soy Carlos Mogollón 👋</h2>
+<h2 align="center">¡Hola! Soy Carlos 👋</h2>
 
 <p align="center">
   Desarrollador Full Stack 💻 (Backend Focus) | QA Tester 🔍
@@ -8,13 +8,18 @@
 
 ### 💼 Sobre mí
 
-[cite_start]🎓 **Desarrollador Full Stack** con un enfoque especializado en **Backend** (Node.js, Nest.js, Express) [cite: 63, 67] [cite_start]y una sólida experiencia en **Quality Assurance (QA Tester)**[cite: 63, 67, 125].
+Desarrollador Full Stack 💻 con un enfoque especializado en Backend (Node.js, Nest.js, Express) y una sólida experiencia en Quality Assurance (QA Tester). Mi perfil combina habilidades de desarrollo con un fuerte énfasis en la validación de procesos, la documentación y la mejora continua.
 
-[cite_start]✅ Perfil técnico enfocado en procesos de **validación, documentación y mejora continua**[cite: 68, 9, 132]. [cite_start]Formación académica en **informática** (UNLP)[cite: 43, 114].
+🛠️ Desarrollo y Tecnología
+- Manejo de tecnologías Backend como Node.js, Nest.js, Express, PostgreSQL y MongoDB.
+- Experiencia en la construcción de API REST seguras y en la implementación de autenticación interna (JWT) y  externa (Auth0).
+- Conocimiento en Frontend utilizando React y Vite, JavaScript, Axios, CSS y HTML.
+- Manejo de herramientas de desarrollo esenciales como Docker, Git/Github y TypeORM.
 
-[cite_start]🚀 **Logro destacado:** Automatización de procesos operativos (web scraping, manejo de datos) con **Selenium** y **Python** que resultó en la automatización del **95% de las operaciones** en un contexto financiero real[cite: 81, 105].
-
-[cite_start]🛡️ Experiencia en **Prevención de Fraudes Financieros** y gestión de riesgos en mercados descentralizados[cite: 82, 91].
+🔍 Quality Assurance (QA)
+- Experiencia en Pruebas Manuales (web testing, creación de casos de prueba).
+- Habilidad para realizar API testing con Postman e Insomnia y pruebas unitarias y de integración con Jest.
+- Conocimiento de metodologías ágiles (Scrum) y uso de Jira para el reporte de bugs y la gestión de proyectos.
 
 ---
 
@@ -24,46 +29,43 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 | Categoría | Tecnologías Clave | Herramientas y Metodologías |
 |-----------|-------------------|-----------------------------|
-| **Backend** ⚙️ | Node.js, Nest.js, Express, TypeORM | [cite_start]API REST, Docker, JWT (Auth0), PostgreSQL, MongoDB [cite: 50, 64, 70] |
-| **Frontend** 🎨 | React, Vite, JavaScript, TypeScript | [cite_start]CSS, HTML, Axios [cite: 51, 72] |
-| **Testing & QA** ✅ | Pruebas Manuales, Jest (Unitarias/Integración), Selenium, Python | [cite_start]Postman/Insomnia, Jira (gestión de bugs), Scrum [cite: 77, 78, 164, 166] |
-| **Otros** | Git/GitHub, Pandas, Kotlin, Java | [cite_start]Diagramas UML, OpenAPI [cite: 52, 166] |
+| **Backend** ⚙️ | Node.js, Nest.js, Express, TypeScript, TypeORM | API REST, Docker, JWT, Auth0, PostgreSQL, MongoDB |
+| **Frontend** 🎨 | React, Vite, JavaScript, TypeScript | CSS, HTML, Axios |
+| **Testing & QA** ✅ | Pruebas Manuales, Jest (Unitarias/Integración) | Postman/Insomnia, Jira (gestión de bugs) |
+| **Otros** | Git/GitHub, Docker, Kotlin, Python, Java, Pandas | SCRUM, Diagramas UML, OpenAPI, Markdown, Google Sheets |
 
 ---
 
 ### 📂 Proyectos Destacados
 
-Aquí puedes encontrar una muestra de mi trabajo en desarrollo Full Stack y aseguramiento de calidad:
+#### 1. 💻 Proyecto Backend (Soy Henry):
 
-#### 1. ✅ Proyecto Actual de QA (Pruebas Manuales y Automatización):
+**➡️ [https://github.com/Mogo943/PM4-Backend-Project](PM4-Backend-Project)**
 
-**➡️ [SEÑALAR Y AGREGAR AQUÍ EL ENLACE Y TÍTULO DEL PROYECTO ACTUAL DE QA, EJEMPLO: "Proyecto QA DemoGuru"]**
+**Descripción:** PM4-Backend-Project es una aplicación backend desarrollada como parte del Módulo 4 del bootcamp de Soy Henry. Incluye backend REST con Node.js para ofrecer en el contexto de un e-commerce: creacion, actualizacion, busqueda, eliminacion y autenticacion de usuarios, productos y ordenes de compras. Además de la subida de archivos, busqueda y creacion de categorias y detalles de ordenes de compra. Estableciendo una logica de negocio de un e-commerce.
+**Tecnologías:** Nest.js, PostgreSQL, Uso de **Docker** y **Jest** para testing.
 
-* [cite_start]**Enfoque:** Testing funcional completo, desde la creación de casos de prueba hasta el reporte de bugs funcionales y no funcionales[cite: 137, 138, 140].
-* [cite_start]**Herramientas:** Utilización de Jira para gestión y Postman para pruebas de API[cite: 141, 166].
+#### 2. ⏱️ Proyecto Full Stack (Soy Henry):
 
-#### 2. 💻 Proyecto Full Stack (Soy Henry):
+**➡️ [https://github.com/Mogo943/PM3-Project](PM3-Project)**
 
-**➡️ [SEÑALAR Y AGREGAR AQUÍ EL ENLACE Y TÍTULO DEL PROYECTO DE SOY HENRY 1, EJEMPLO: "Ecommerce Backend"]**
+**Descripción:** PM3-Project es una aplicación full stack desarrollada como parte del Módulo 3 del bootcamp de Soy Henry. Incluye backend REST con Node.js y frontend con Vite/React, integrados para ofrecer funcionalidades completas: autenticación, operaciones CRUD, lógica de negocio y validaciones.
+**Tecnologías:** NodeJs, Express, PostgreSQL para el Backend y React/Vite para el Frontend.
 
-* [cite_start]**Descripción:** Desarrollo del Backend de un ecommerce con implementación de **autenticación** y **roles** de usuario[cite: 21, 25].
-* [cite_start]**Tecnologías:** Nest.js, PostgreSQL, Uso de **Docker** y **Jest** para testing[cite: 22, 27].
+#### 3. ✅ Proyecto Actual de QA (Pruebas Manuales y Automatización):
 
-#### 3. ⏱️ Proyecto Full Stack (Soy Henry):
+**➡️ [https://github.com/Mogo943/qa-project-demo-guru](Web-testing-project-demo-guru)**
 
-**➡️ [SEÑALAR Y AGREGAR AQUÍ EL ENLACE Y TÍTULO DEL PROYECTO DE SOY HENRY 2, EJEMPLO: "Sistema de Turnos"]**
-
-* [cite_start]**Descripción:** Desarrollo Front y Back de una web para la solicitud de turnos con formularios de registro y login[cite: 14].
-* [cite_start]**Tecnologías:** NodeJs, Express, PostgreSQL para el Backend y React/Vite para el Frontend[cite: 15, 18].
-
+**Descripción:** Este proyecto fue realizado como trabajo final del curso de Tester QA Manual en CoderHouse.
+**Herramientas:** Utilización de Jira para gestión y Postman para pruebas de API.
 ---
 
 ### 📫 Contacto
 
 Si buscas un perfil Full Stack detallista, con un enfoque en la calidad del software (QA) y la eficiencia:
-- [cite_start]✉️ **Email:** carlosmogo.work@gmail.com [cite: 54]
-- [cite_start]💼 [**LinkedIn**](https://www.linkedin.com/in/carlosmogollon-it/) [cite: 55, 56]
-- [cite_start]📁 [**CV**](tinyurl.com/carlos-mogollon-cv) [cite: 56]
+- ✉️ **Email:** carlosmogo.work@gmail.com
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/carlosmogollon-it/)
+- 📁 [**CV**]([tinyurl.com/carlos-mogollon-cv](https://bit.ly/carlos-mogollon-cv))
 
 ---
 
