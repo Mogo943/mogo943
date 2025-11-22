@@ -85,7 +85,7 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 **➡️ [API REST E-commerce (Backend Architecture)](https://github.com/Mogo943/ecommerce-api-rest)**
 
-**Descripción:** Es una aplicación backend desarrollada como parte del Módulo 4 del bootcamp de Soy Henry. Incluye backend REST con Node.js para ofrecer en el contexto de un e-commerce: creacion, actualizacion, busqueda, eliminacion y autenticacion de usuarios, productos y ordenes de compras. Además de la subida de archivos, busqueda y creacion de categorias y detalles de ordenes de compra. Estableciendo una logica de negocio de un e-commerce.
+**Descripción:** Es una aplicación backend con Node.js para ofrecer en el contexto de un e-commerce: creacion, actualizacion, busqueda, eliminacion y autenticacion de usuarios, productos y ordenes de compras. Además de la subida de archivos, busqueda y creacion de categorias y detalles de ordenes de compra. Estableciendo una logica de negocio de un e-commerce.
 
 <p align="center">
   <p>Tecnologias</p>
@@ -98,7 +98,7 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 **➡️ [Gestor de Turnos & Reservas (Full Stack)](https://github.com/Mogo943/turnos-app-fullstack)**
 
-**Descripción:** Es una aplicación full stack desarrollada como parte del Módulo 3 del bootcamp de Soy Henry. Incluye backend REST con Node.js y frontend con Vite/React, integrados para ofrecer funcionalidades completas: autenticación, operaciones CRUD, lógica de negocio y validaciones.
+**Descripción:** Es una aplicación full stack. Incluye backend REST con Node.js y frontend con Vite/React, integrados para ofrecer funcionalidades completas: autenticación, operaciones CRUD, lógica de negocio y validaciones.
 
 <p align="center">
   <p>BACKEND</p>
