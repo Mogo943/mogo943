@@ -83,7 +83,7 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 #### 2. 💻 API REST E-commerce (Backend Architecture):
 
-**➡️ [API REST E-commerce (Backend Architecture)]([https://github.com/Mogo943/PM4-Backend-Project](https://github.com/Mogo943/ecommerce-api-rest))**
+**➡️ [API REST E-commerce]([https://github.com/Mogo943/PM4-Backend-Project](https://github.com/Mogo943/ecommerce-api-rest))**
 
 **Descripción:** Es una aplicación backend desarrollada como parte del Módulo 4 del bootcamp de Soy Henry. Incluye backend REST con Node.js para ofrecer en el contexto de un e-commerce: creacion, actualizacion, busqueda, eliminacion y autenticacion de usuarios, productos y ordenes de compras. Además de la subida de archivos, busqueda y creacion de categorias y detalles de ordenes de compra. Estableciendo una logica de negocio de un e-commerce.
 
