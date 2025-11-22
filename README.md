@@ -68,9 +68,9 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 #### 1. 🌐 Plataforma de Conexión para Músicos
 
-**➡️ [Backend](https://github.com/Mogo943/musician-social-network-backend)
+**➡️ [Backend](https://github.com/Mogo943/musician-social-network-backend)**
 
-**➡️ [Frontend](https://github.com/Mogo943/musician-social-network-frontend)
+**➡️ [Frontend](https://github.com/Mogo943/musician-social-network-frontend)**
 
 <p align="center">
   <p>Tecnologias</p>
