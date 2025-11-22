@@ -72,14 +72,14 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 **➡️ [Frontend](https://github.com/Mogo943/musician-social-network-frontend)**
 
+**Descripción:** El sistema impulsa una red social de nicho diseñada para conectar músicos, facilitar la formación de bandas y gestionar oportunidades laborales.
+
 <p align="center">
   <p>Tecnologias</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,postgres,docker,git,github,postman,vscode,npm,vercel" />
   </a>
 </p>
-
-**Descripción:** El sistema impulsa una red social de nicho diseñada para conectar músicos, facilitar la formación de bandas y gestionar oportunidades laborales.
 
 #### 2. 💻 API REST E-commerce (Backend Architecture):
 
