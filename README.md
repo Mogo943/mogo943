@@ -66,11 +66,25 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 
 ### 📂 Proyectos Destacados
 
-#### 1. 💻 Proyecto Backend (Soy Henry):
+#### 1. 🌐 Plataforma de Conexión para Músicos
 
-**➡️ [PM4-Backend-Project](https://github.com/Mogo943/PM4-Backend-Project)**
+**➡️ [Backend](https://github.com/Mogo943/musician-social-network-backend)
+**➡️ [Frontend](https://github.com/Mogo943/musician-social-network-frontend)
 
-**Descripción:** PM4-Backend-Project es una aplicación backend desarrollada como parte del Módulo 4 del bootcamp de Soy Henry. Incluye backend REST con Node.js para ofrecer en el contexto de un e-commerce: creacion, actualizacion, busqueda, eliminacion y autenticacion de usuarios, productos y ordenes de compras. Además de la subida de archivos, busqueda y creacion de categorias y detalles de ordenes de compra. Estableciendo una logica de negocio de un e-commerce.
+<p align="center">
+  <p>Tecnologias</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,postgres,docker,git,github,postman,vscode,npm,vercel" />
+  </a>
+</p>
+
+**Descripción:** El sistema impulsa una red social de nicho diseñada para conectar músicos, facilitar la formación de bandas y gestionar oportunidades laborales.
+
+#### 2. 💻 API REST E-commerce (Backend Architecture):
+
+**➡️ [API REST E-commerce (Backend Architecture)]([https://github.com/Mogo943/PM4-Backend-Project](https://github.com/Mogo943/ecommerce-api-rest))**
+
+**Descripción:** Es una aplicación backend desarrollada como parte del Módulo 4 del bootcamp de Soy Henry. Incluye backend REST con Node.js para ofrecer en el contexto de un e-commerce: creacion, actualizacion, busqueda, eliminacion y autenticacion de usuarios, productos y ordenes de compras. Además de la subida de archivos, busqueda y creacion de categorias y detalles de ordenes de compra. Estableciendo una logica de negocio de un e-commerce.
 
 <p align="center">
   <p>Tecnologias</p>
@@ -79,11 +93,11 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
   </a>
 </p>
 
-#### 2. ⏱️ Proyecto Full Stack (Soy Henry):
+#### 3. ⏱️ Gestor de Turnos & Reservas (Full Stack):
 
-**➡️ [PM3-Project](https://github.com/Mogo943/PM3-Project)**
+**➡️ [Gestor de Turnos & Reservas (Full Stack)](https://github.com/Mogo943/turnos-app-fullstack)**
 
-**Descripción:** PM3-Project es una aplicación full stack desarrollada como parte del Módulo 3 del bootcamp de Soy Henry. Incluye backend REST con Node.js y frontend con Vite/React, integrados para ofrecer funcionalidades completas: autenticación, operaciones CRUD, lógica de negocio y validaciones.
+**Descripción:** Es una aplicación full stack desarrollada como parte del Módulo 3 del bootcamp de Soy Henry. Incluye backend REST con Node.js y frontend con Vite/React, integrados para ofrecer funcionalidades completas: autenticación, operaciones CRUD, lógica de negocio y validaciones.
 
 <p align="center">
   <p>BACKEND</p>
