@@ -32,7 +32,7 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 |-----------|-------------------|-----------------------------|
 | **Backend** ⚙️ | Node.js, Nest.js, Express, TypeScript, TypeORM | API REST, Docker, JWT, Auth0, PostgreSQL, MongoDB |
 | **Frontend** 🎨 | React, Vite, JavaScript, TypeScript | CSS, HTML, Axios |
-| **Testing & QA** ✅ | Playwright (E2E), Jest (Unitarias/Integración), Pruebas Manuales | Postman/Insomnia, Jira (gestión de bugs), POM |
+| **Testing & QA** ✅ | Playwright (E2E) + C#, Jest (Unitarias/Integración), Pruebas Manuales | Postman/Insomnia, Jira (gestión de bugs), POM |
 | **Otros** | Git/GitHub, Docker, Kotlin, Python, Java, Selenium, Pandas | SCRUM, Diagramas UML, OpenAPI, Markdown, Google Sheets, Visual Studio Code, Android Studio |
 
 <p align="center">
@@ -52,7 +52,7 @@ Mi trabajo se centra en crear soluciones robustas y validadas, utilizando las si
 <p align="center">
   <p align="center">QA & AUTOMATION</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=playwright,jest,postman" />
+    <img src="https://skillicons.dev/icons?i=playwright,jest,postman,c#" />
   </a>
 </p>
 
